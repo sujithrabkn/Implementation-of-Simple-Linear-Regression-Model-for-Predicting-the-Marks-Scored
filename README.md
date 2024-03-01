@@ -15,13 +15,14 @@ To write a program to predict the marks scored by a student using the simple lin
 5. Plot the regression line on a scatter plot to visualize the relationship between study hours and marks scored.
 
 ## Program:
-```
 
 Program to implement the simple linear regression model for predicting the marks scored.
+
 Developed by: SUJITHRA B K N
+
 RegisterNumber:  212222230153
 
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
